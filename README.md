@@ -2,7 +2,9 @@
 
 <h3 align="center"A frontend developer passionate about crafting intuitive user interfaces. Proficient in HTML, CSS, and JavaScript, I also excel in React, TypeScript, and other modern technologies. </h3>
 
-- 📫 You can contact me using: E-mail: yes.kiselev@gmail.com; Telegram: @yes_kiselev.
+ 📫 You can contact me using:
+E-mail: <a href='@yes_kiselev'>yes.kiselev@gmail.com</a>
+Telegram: <a href='@yes_kiselev'>@yes_kiselev</a>.
 - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
