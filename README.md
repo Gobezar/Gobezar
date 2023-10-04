@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vadim</h1>
-<h3 align="center"A frontend developer passionate about crafting intuitive user interfaces. Proficient in HTML, CSS, and JavaScript, I also excel in React, TypeScript, and other modern technologies. </h3>
 
+<h3 align="center"A frontend developer passionate about crafting intuitive user interfaces. Proficient in HTML, CSS, and JavaScript, I also excel in React, TypeScript, and other modern technologies. </h3>
 
 - 📫 You can contact me using: E-mail: yes.kiselev@gmail.com; Telegram: @yes_kiselev.
 - 
