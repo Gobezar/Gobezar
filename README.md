@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vadim</h1>
 
+<h5 align="center"A frontend developer passionate about crafting intuitive user interfaces. Proficient in HTML, CSS, and JavaScript, I also excel in React, TypeScript, and other modern technologies. </h5>
+
 <p align="center">📫 You can contact me using:</p>
 <p align="center">E-mail: <a href='@yes_kiselev'>yes.kiselev@gmail.com</a></p>
 <p align="center">Telegram: <a href='@yes_kiselev'>@yes_kiselev</a></p>
 
-<h3 align="center"A frontend developer passionate about crafting intuitive user interfaces. Proficient in HTML, CSS, and JavaScript, I also excel in React, TypeScript, and other modern technologies. </h3>
-- 
+
+
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kuznetsov-artem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kuznetsov-artem/" height="30" width="40" /></a>
