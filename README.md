@@ -2,7 +2,7 @@
 
 <h5 align="center"A frontend developer passionate about crafting intuitive user interfaces. Proficient in HTML, CSS, and JavaScript, I also excel in React, TypeScript, and other modern technologies. </h5>
 
-A frontend developer passionate about crafting intuitive user interfaces. Proficient in HTML, CSS, and JavaScript, I also excel in React, TypeScript, and other modern technologies.
+<h3>A frontend developer passionate about crafting intuitive user interfaces. Proficient in HTML, CSS, and JavaScript, I also excel in React, TypeScript, and other modern technologies.</h3>
 
 <p align="center">📫 You can contact me using:</p>
 <p align="center">E-mail: <a href='@yes_kiselev'>yes.kiselev@gmail.com</a></p>
