@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vadim</h1>
-
-<h5 align="center"A frontend developer passionate about crafting intuitive user interfaces. Proficient in HTML, CSS, and JavaScript, I also excel in React, TypeScript, and other modern technologies. </h5>
-
 <h3>A frontend developer passionate about crafting intuitive user interfaces. Proficient in HTML, CSS, and JavaScript, I also excel in React, TypeScript, and other modern technologies.</h3>
 
 <p align="center">📫 You can contact me using:</p>
