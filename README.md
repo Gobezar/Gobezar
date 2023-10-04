@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Vadim</h1>
+<h2 align="center">Hi 👋, I'm Vadim</h2>
 <h4 align="center">A passionate frontend developer from Russia. Proficient in HTML, CSS, and JavaScript, I also excel in React, TypeScript, and other modern technologies.</h4>
 
 
 
-<h5  align="left">📫 You can contact with me:</h5>
+<h4  align="left">📫 You can contact with me:</h4>
 <ul>
-<li><h5  align="left">E-mail: <a href='@yes_kiselev'>yes.kiselev@gmail.com</a></h5></li>
-<li><h5  align="left">Telegram: <a href='@yes_kiselev'>@yes_kiselev</a></h5></li>
+<li><h4  align="left">E-mail: <a href='@yes_kiselev'>yes.kiselev@gmail.com</a></h4></li>
+<li><h4  align="left">Telegram: <a href='@yes_kiselev'>@yes_kiselev</a></h4></li>
 </ul>
 
 
